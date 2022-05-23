@@ -6,3 +6,6 @@ The jupyter notebook has everything needed to estimate parameters and predict fu
 - case_data.csv : Infection data from day 0-50 for a small town in India
 - prior_data_worldwide.csv : known parameter values for different cities throughout the world
 - test_predictions.csv : observed data for I, R, D for days 51-110 in the same town
+
+## Slides
+Brief Slides to Problem, Methodology, and Conclusions made from data analysis
