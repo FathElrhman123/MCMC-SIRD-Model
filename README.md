@@ -8,4 +8,4 @@ The jupyter notebook has everything needed to estimate parameters and predict fu
 - test_predictions.csv : observed data for I, R, D for days 51-110 in the same town
 
 ## Slides
-Brief Slides to Problem, Methodology, and Conclusions made from data analysis
+- statpy_sp22_vb_kd.pdf: Brief Slides to Problem, Methodology, and Conclusions made from data analysis
